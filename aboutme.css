@@ -1,6 +1,6 @@
 body {
 
 background-image: url("aboutmebackground.JPG");
-background-size: 150 px 75 px;
+background-size:contain;
 
 }
